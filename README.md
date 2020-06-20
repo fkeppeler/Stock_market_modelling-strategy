@@ -1,1 +1,3 @@
 # Stock_market_modelling-strategy
+
+working in progress...
